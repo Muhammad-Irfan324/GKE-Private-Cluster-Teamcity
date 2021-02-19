@@ -19,23 +19,23 @@
 ## Snapshot restore performed screenshots
 
 
-![alt](https://github.com/addoptify/infra-teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_382.png)
+![alt](https://github.com/Muhammad-Irfan324/GKE-Private-Cluster-Teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_382.png)
 
 <br>
 
-![alt](https://github.com/addoptify/infra-teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_385.png)
+![alt](https://github.com/Muhammad-Irfan324/GKE-Private-Cluster-Teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_385.png)
 
 <br>
 
-![alt](https://github.com/addoptify/infra-teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_384.png)
+![alt](https://github.com/Muhammad-Irfan324/GKE-Private-Cluster-Teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_384.png)
 
 <br>
 
-![alt](https://github.com/addoptify/infra-teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_383.png)
+![alt](https://github.com/Muhammad-Irfan324/GKE-Private-Cluster-Teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_383.png)
 
 <br>
 
-![alt](https://github.com/addoptify/infra-teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_386.png)
+![alt](https://github.com/Muhammad-Irfan324/GKE-Private-Cluster-Teamcity/blob/main/kubernetes/volume-snapshot-restore/Selection_386.png)
 
  <br> 
 
